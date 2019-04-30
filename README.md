@@ -1,1 +1,1 @@
-currencies
+demos
